@@ -1,6 +1,5 @@
 # 芒果等級分類(Mango Sorting Application)
 
----
 
 <img src="./src/sorting_basis.png" alt="sorting_basis" style="zoom:80%;" />
 
@@ -10,7 +9,7 @@
 * 內銷，等級B
 * 食品加工，等級C
 
----
+<br>
 
 ## 執行流程與原理:
 
@@ -18,7 +17,7 @@
 
 <img src="./src/process.png" alt="process" style="zoom:80%;" />
 
----
+<br>
 
 ## Package Install:
 
@@ -35,7 +34,7 @@ pip install -r requirements.txt
 https://drive.google.com/drive/folders/1o01Omdjz4_gpMrNhwSQ1_x2r9cD7HV8J?usp=sharing
 ```
 
----
+<br>
 
 ## Usage:
 
